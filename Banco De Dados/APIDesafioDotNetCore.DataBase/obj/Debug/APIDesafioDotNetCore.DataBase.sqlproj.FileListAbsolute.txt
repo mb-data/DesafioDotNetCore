@@ -1,0 +1,6 @@
+C:\workspace\DesafioDotNetCore\Banco De Dados\APIDesafioDotNetCore.DataBase\bin\Debug\APIDesafioDotNetCore.DataBase.dacpac
+C:\workspace\DesafioDotNetCore\Banco De Dados\APIDesafioDotNetCore.DataBase\bin\Debug\APIDesafioDotNetCore.DataBase.dll
+C:\workspace\DesafioDotNetCore\Banco De Dados\APIDesafioDotNetCore.DataBase\bin\Debug\APIDesafioDotNetCore.DataBase.pdb
+C:\workspace\DesafioDotNetCore\Banco De Dados\APIDesafioDotNetCore.DataBase\obj\Debug\APIDesafioDotNetCore.DataBase.sqlproj.AssemblyReference.cache
+C:\workspace\DesafioDotNetCore\Banco De Dados\APIDesafioDotNetCore.DataBase\obj\Debug\APIDesafioDotNetCore.DataBase.dll
+C:\workspace\DesafioDotNetCore\Banco De Dados\APIDesafioDotNetCore.DataBase\obj\Debug\APIDesafioDotNetCore.DataBase.pdb

@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>APIDesafioDotNetCore</name>
+    </assembly>
+    <members>
+        <member name="M:APIDesafioDotNetCore.Controllers.ProductController.GetAllProducts">
+             <summary>
+             Get all products
+             </summary>
+             <remarks>
+             Exemple request:
+            
+                 GET /api/v1/products
+                 
+             </remarks>
+             <returns>Collection of products</returns>
+             <response code="200">Return products.</response>
+        </member>
+        <member name="M:APIDesafioDotNetCore.Controllers.ProductController.GetProductById(System.Int32,System.Threading.CancellationToken)">
+             <summary>
+             Get product by ID
+             </summary>
+             <remarks>
+             Exemple request:
+            
+                 GET /api/v1/products/1
+                 
+             </remarks>
+             <param name="id">Product ID</param>
+             <param name="cancellationToken">Cancellation token</param>
+             <returns>Product found</returns>
+             <response code="200">Return product.</response>
+        </member>
+        <member name="M:APIDesafioDotNetCore.Controllers.ProductController.CreateNewProduct(APIDesafioDotNetCore.OT.ChangeProductEntity.Request.ChangeProductEntityRequest,System.Threading.CancellationToken)">
+             <summary>
+             Insert new product
+             </summary>
+             <remarks>
+             Exemple request:
+            
+                 POST /api/v1/products
+                 {
+                     Name = Car,
+                     Price = 2500.00,
+                     Brand = Ferrari
+                 }
+             </remarks>
+             <param name="request">Object request</param>
+             <param name="cancellationToken">Cancellation token</param>
+             <returns>Product created</returns>
+             <response code="200">Product created.</response>
+        </member>
+        <member name="M:APIDesafioDotNetCore.Controllers.ProductController.UpdateProduct(System.Int32,APIDesafioDotNetCore.OT.ChangeProductEntity.Request.ChangeProductEntityRequest,System.Threading.CancellationToken)">
+             <summary>
+             Update a product
+             </summary>
+             <remarks>
+             Exemple request:
+            
+                 PUT /api/v1/products/1
+                 {
+                     Name = Car,
+                     Price = 2500.00,
+                     Brand = Ferrari
+                 }
+             </remarks>
+             <param name="request">Object request</param>
+             <param name="cancellationToken">Cancellation token</param>
+             <returns>Product updated</returns>
+             <response code="200">Product updated.</response>
+        </member>
+        <member name="M:APIDesafioDotNetCore.Controllers.ProductController.DeleteProduct(System.Int32,APIDesafioDotNetCore.OT.ChangeProductEntity.Request.ChangeProductEntityRequest,System.Threading.CancellationToken)">
+             <summary>
+             Delete a product
+             </summary>
+             <remarks>
+             Exemple request:
+            
+                 DELETE /api/v1/products/1
+                 
+             </remarks>
+             <param name="request">Object request</param>
+             <param name="cancellationToken">Cancellation token</param>
+             <returns>Product deleted</returns>
+             <response code="200">Product deleted.</response>
+        </member>
+    </members>
+</doc>

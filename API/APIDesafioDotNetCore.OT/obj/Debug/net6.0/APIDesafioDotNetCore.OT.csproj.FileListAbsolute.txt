@@ -1,0 +1,12 @@
+C:\workspace\DesafioDotNetCore\API\APIDesafioDotNetCore.OT\bin\Debug\net6.0\APIDesafioDotNetCore.OT.deps.json
+C:\workspace\DesafioDotNetCore\API\APIDesafioDotNetCore.OT\bin\Debug\net6.0\APIDesafioDotNetCore.OT.dll
+C:\workspace\DesafioDotNetCore\API\APIDesafioDotNetCore.OT\bin\Debug\net6.0\APIDesafioDotNetCore.OT.pdb
+C:\workspace\DesafioDotNetCore\API\APIDesafioDotNetCore.OT\obj\Debug\net6.0\APIDesafioDotNetCore.OT.csproj.AssemblyReference.cache
+C:\workspace\DesafioDotNetCore\API\APIDesafioDotNetCore.OT\obj\Debug\net6.0\APIDesafioDotNetCore.OT.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DesafioDotNetCore\API\APIDesafioDotNetCore.OT\obj\Debug\net6.0\APIDesafioDotNetCore.OT.AssemblyInfoInputs.cache
+C:\workspace\DesafioDotNetCore\API\APIDesafioDotNetCore.OT\obj\Debug\net6.0\APIDesafioDotNetCore.OT.AssemblyInfo.cs
+C:\workspace\DesafioDotNetCore\API\APIDesafioDotNetCore.OT\obj\Debug\net6.0\APIDesafioDotNetCore.OT.csproj.CoreCompileInputs.cache
+C:\workspace\DesafioDotNetCore\API\APIDesafioDotNetCore.OT\obj\Debug\net6.0\APIDesafioDotNetCore.OT.dll
+C:\workspace\DesafioDotNetCore\API\APIDesafioDotNetCore.OT\obj\Debug\net6.0\refint\APIDesafioDotNetCore.OT.dll
+C:\workspace\DesafioDotNetCore\API\APIDesafioDotNetCore.OT\obj\Debug\net6.0\APIDesafioDotNetCore.OT.pdb
+C:\workspace\DesafioDotNetCore\API\APIDesafioDotNetCore.OT\obj\Debug\net6.0\ref\APIDesafioDotNetCore.OT.dll
