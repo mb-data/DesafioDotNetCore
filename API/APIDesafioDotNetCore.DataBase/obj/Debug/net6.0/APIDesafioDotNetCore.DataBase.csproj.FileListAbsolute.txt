@@ -1,0 +1,12 @@
+C:\workspace\DesafioDotNetCore\API\APIDesafioDotNetCore.DataBase\bin\Debug\net6.0\APIDesafioDotNetCore.DataBase.deps.json
+C:\workspace\DesafioDotNetCore\API\APIDesafioDotNetCore.DataBase\bin\Debug\net6.0\APIDesafioDotNetCore.DataBase.dll
+C:\workspace\DesafioDotNetCore\API\APIDesafioDotNetCore.DataBase\bin\Debug\net6.0\APIDesafioDotNetCore.DataBase.pdb
+C:\workspace\DesafioDotNetCore\API\APIDesafioDotNetCore.DataBase\obj\Debug\net6.0\APIDesafioDotNetCore.DataBase.csproj.AssemblyReference.cache
+C:\workspace\DesafioDotNetCore\API\APIDesafioDotNetCore.DataBase\obj\Debug\net6.0\APIDesafioDotNetCore.DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DesafioDotNetCore\API\APIDesafioDotNetCore.DataBase\obj\Debug\net6.0\APIDesafioDotNetCore.DataBase.AssemblyInfoInputs.cache
+C:\workspace\DesafioDotNetCore\API\APIDesafioDotNetCore.DataBase\obj\Debug\net6.0\APIDesafioDotNetCore.DataBase.AssemblyInfo.cs
+C:\workspace\DesafioDotNetCore\API\APIDesafioDotNetCore.DataBase\obj\Debug\net6.0\APIDesafioDotNetCore.DataBase.csproj.CoreCompileInputs.cache
+C:\workspace\DesafioDotNetCore\API\APIDesafioDotNetCore.DataBase\obj\Debug\net6.0\APIDesafioDotNetCore.DataBase.dll
+C:\workspace\DesafioDotNetCore\API\APIDesafioDotNetCore.DataBase\obj\Debug\net6.0\refint\APIDesafioDotNetCore.DataBase.dll
+C:\workspace\DesafioDotNetCore\API\APIDesafioDotNetCore.DataBase\obj\Debug\net6.0\APIDesafioDotNetCore.DataBase.pdb
+C:\workspace\DesafioDotNetCore\API\APIDesafioDotNetCore.DataBase\obj\Debug\net6.0\ref\APIDesafioDotNetCore.DataBase.dll

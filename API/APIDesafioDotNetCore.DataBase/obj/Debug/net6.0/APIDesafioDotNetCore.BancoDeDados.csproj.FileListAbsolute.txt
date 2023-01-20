@@ -1,0 +1,5 @@
+C:\workspace\DesafioDotNetCore\API\APIDesafioDotNetCore.BancoDeDados\obj\Debug\net6.0\APIDesafioDotNetCore.BancoDeDados.csproj.AssemblyReference.cache
+C:\workspace\DesafioDotNetCore\API\APIDesafioDotNetCore.BancoDeDados\obj\Debug\net6.0\APIDesafioDotNetCore.BancoDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DesafioDotNetCore\API\APIDesafioDotNetCore.BancoDeDados\obj\Debug\net6.0\APIDesafioDotNetCore.BancoDeDados.AssemblyInfoInputs.cache
+C:\workspace\DesafioDotNetCore\API\APIDesafioDotNetCore.BancoDeDados\obj\Debug\net6.0\APIDesafioDotNetCore.BancoDeDados.AssemblyInfo.cs
+C:\workspace\DesafioDotNetCore\API\APIDesafioDotNetCore.BancoDeDados\obj\Debug\net6.0\APIDesafioDotNetCore.BancoDeDados.csproj.CoreCompileInputs.cache
